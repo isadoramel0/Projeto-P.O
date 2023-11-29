@@ -15,7 +15,7 @@ Seção dedicada aos Desenvolvedores do site, o Backlog tem como principal objet
 #### Backlog:
   - Conterá issues no Kanbar To Do no GitHub Projects (tarefas não feitas).
     Exemplo:
-   ![Captura de Tela do Aplicativo](url_da_sua_imagem.png)
+   ![Captura de Tela do Aplicativo](https://github.com/isadoramel0/Projeto-P.O/blob/main/exemploBacklog.png?raw=true)
   - A partir do momento em que as tarefas forem para outros estágios de desenvolvimento o DEV poderá arrastar as issues manualmente para os outros Kanbans disponibilizados no GitHub Projects.
   - Caso as tarefas estejam finalizadas o DEV deverá abrir a issue e marcar que uma task foi finalizada.
 ## Tecnologias:
