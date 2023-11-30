@@ -19,6 +19,6 @@ Seção dedicada aos Desenvolvedores do site, o Backlog tem como principal objet
   - A partir do momento em que as tarefas forem para outros estágios de desenvolvimento o DEV poderá arrastar as issues manualmente para os outros Kanbans disponibilizados no GitHub Projects.
   - Caso as tarefas estejam finalizadas o DEV deverá abrir a issue e marcar que uma task foi finalizada.
 ## Tecnologias:
- -GitHub Projects.
+ - GitHub Projects.
  ## Autor :
  Isadora Gomes Melo Cunha
